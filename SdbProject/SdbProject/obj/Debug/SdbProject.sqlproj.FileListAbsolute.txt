@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SdbProject\SdbProject\bin\Debug\SdbProject.dacpac
+C:\Users\Admin\source\repos\SdbProject\SdbProject\bin\Debug\SdbProject.dll
+C:\Users\Admin\source\repos\SdbProject\SdbProject\bin\Debug\SdbProject.pdb
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\SdbProject.sqlproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\Model.xml
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\refactor.xml
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\postdeploy.sql
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\predeploy.sql
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\SdbProject.dll
+C:\Users\Admin\source\repos\SdbProject\SdbProject\obj\Debug\SdbProject.pdb
