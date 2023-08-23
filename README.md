@@ -1,5 +1,5 @@
 # SimpleDbProject
-Its a simple Db server project it inclueds table creation and how to connect db functions.
+Its a simple Db server project it inclueds table creation and how to connect db Methods.
 
 Here the steps :
 1. Open Visual studio 2020
